@@ -1,2 +1,2 @@
 # BlogCore
-Proyecto base en NET Core 3.0
+Proyecto base en NET Core 3.1
